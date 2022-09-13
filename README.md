@@ -6,10 +6,6 @@
 
 [![My Stats](https://github-readme-stats.vercel.app/api?username=mikedegeofroy)](https://github.com/mikedegeofroy)
 
-## Here are some of my projects
-
-[![Personal Website](/mikedegeofroy.png)](https://mikedegeofroy.com/)
+## Here is one of my favorite projects
 
 [![Podarok-Project](/podarok-project.png)](https://podarok.ae-35.it/)
-
-[![Financial Fortress](/financialfortress.png)](https://financialfortress.ru/en)
