@@ -8,8 +8,8 @@
 
 ## Here are some of my projects
 
-[![Personal Website](https://mikedegeofroy.com/)](https://mikedegeofroy.com/)
+[![Personal Website](/mikedegeofroy.png)](https://mikedegeofroy.com/)
 
-[![Podarok-Project](https://podarok.ae-35.it/)](https://podarok.ae-35.it/)
+[![Podarok-Project](/podarok-project.png)](https://podarok.ae-35.it/)
 
-[![Financial Fortress](https://financialfortress.ru/en)](https://financialfortress.ru/en)
+[![Financial Fortress](/financialfortress.png)](https://financialfortress.ru/en)
