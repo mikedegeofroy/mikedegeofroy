@@ -6,6 +6,8 @@
 
 [![My Stats](https://github-readme-stats.vercel.app/api?username=mikedegeofroy)](https://github.com/mikedegeofroy)
 
+Also, check out my [gists](https://gist.github.com/mikedegeofroy/).
+
 ## Here is one of my favorite projects
 
 [![Podarok-Project](/podarok-project.png)](https://podarok.ae-35.it/)
