@@ -1,3 +1,4 @@
+markdown: kramdown
 # Hi there 👋
 
 - 📚 I'm currently a student at ITMO University 
@@ -6,7 +7,7 @@
 
 [![My Stats](https://github-readme-stats.vercel.app/api?username=mikedegeofroy)](https://github.com/mikedegeofroy)
 
-Also, check out my [gists](https://gist.github.com/mikedegeofroy/).
+Also, check out my <a href="https://gist.github.com/mikedegeofroy/" target="_blank">gists</a>.
 
 ## Here is one of my favorite projects
 
