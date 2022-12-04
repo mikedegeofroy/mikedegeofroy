@@ -1,14 +1,13 @@
-markdown: kramdown
 # Hi there 👋
 
-- 📚 I'm currently a student at ITMO University 
-- 🔭 I love to work on new and innovative projects 
-- 💌 Don't hesitate to reach out, you will find me as @mikedegeofroy
+I'm **Mike de Geofroy**, a student of the [Information Technologies and Programming](https://en.itmo.ru/en/faculty/7/Information_Technologies_and_Programming_Faculty.htm) faculty at [ITMO University](https://en.itmo.ru/en/) in St. Petersburg, Russia.
 
-[![My Stats](https://github-readme-stats.vercel.app/api?username=mikedegeofroy)](https://github.com/mikedegeofroy)
+- 🌍 I speak 4 languages (English, Spanish, Russian, French, Italian)
+- 💻 Full Stack Developer (kinda, still lots to learn)
+- 🖌️ Gprahic Designer
+
+> 💌 Don't hesitate to reach out, you will find me as [@mikedegeofroy](mailto:mikedegeofroy@gmail.com).
 
 Also, check out my <a href="https://gist.github.com/mikedegeofroy/" target="_blank">gists</a>.
 
-## Here is one of my favorite projects
-
-[![Podarok-Project](/podarok-project.png)](https://podarok.ae-35.it/)
+[mikedegeofroy.com](https://mikedegeofroy.com)
