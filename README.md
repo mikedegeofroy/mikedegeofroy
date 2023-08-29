@@ -11,3 +11,5 @@ I'm **Mike de Geofroy**, a student of the [Information Technologies and Programm
 Also, check out my <a href="https://gist.github.com/mikedegeofroy/" target="_blank">gists</a>.
 
 [mikedegeofroy.com](https://mikedegeofroy.com)
+
+> As of Tue 29 Aug - I'm not proud of the code I have on github here, I made most repositories private, and if I ever do make them public, it is for the sole purpose of showing my progress over the years. 
